@@ -1,0 +1,5 @@
+christian-kohler.path-intellisense
+dracula-theme.theme-dracula
+joelday.docthis
+robertohuertasm.vscode-icons
+wayou.vscode-todo-highlight
